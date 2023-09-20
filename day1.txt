@@ -1,0 +1,20 @@
+HTTP1  (HYPER TEXT TRANSFER PROTOCAL)
+1 http1 which was crating in 1997.
+2  it work on the texual format. 
+3 there is head of line blocking .
+4 it is used to request to resouese in line for use getting multiple page .
+5 it compress date by itself .
+6 3 TCP connection .
+7 again and again until all data is send .
+8 client send request to response server.
+
+
+HTTP2(HYPER TEXT TRANSFER PROTOCAL)
+1 http2 which was creating in 2015.
+2 it is work on the binary protocal. 
+3 it allowasmultiplxing.
+4 its used to push frame by server that collect all multiple page .
+5 it uses hpack data compression 1 TCP connection. 
+6 which one connection open all request data is send over. 
+7 TCP connection. 
+8 client send request to response server.
