@@ -1,0 +1,17 @@
+objects 
+    
+        for example 
+
+                   creating object:my car 
+
+                   properties:make model yers engine fuel wheels
+var car {
+make:"hyundai";
+model:I20 hyundai prime xecnt;
+year:2018;
+engine:BS6;
+fuel:diesel;
+wheels:4
+} 
+   console.log(car);
+   console.log(car.year);
